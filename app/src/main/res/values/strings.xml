@@ -1,0 +1,23 @@
+<resources>
+
+    //Titulos Menu
+    <string name="app_name">toDO</string>
+    <string name="app_namedolist">toDO - New</string>
+    <string name="app_namedodetails">toDO - Details </string>
+
+    //Menus
+    <string name="action_close">Close</string>
+    <string name="action_new">New</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_photo">Photo</string>
+    <string name="action_gps">Gps</string>
+    <string name="dialog_text"></string>
+    <string name="action_json">Json Url</string>
+    <string name="action_net">Net</string>
+
+    //DoNew
+    <string name="text_title">Descreva sua tarefa e informe a prioridade.</string>
+
+
+</resources>
