@@ -30,4 +30,4 @@ Simple application using Java Android native.
 9. Form
 >Form to record data
 
-Access my website <http://www.marangonijunior.com>
+My Linkedin <http://www.linkedin.com/in/marangonijunior>
